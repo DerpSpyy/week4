@@ -87,3 +87,7 @@ a:hover {
 .slide {
     animation: slide-in 1s ease-out forwards;
 }
+.spin {
+    display: inline-block;
+    animation: spin 2s linear infinite; 
+}
